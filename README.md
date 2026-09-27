@@ -179,3 +179,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## Project Links
+- GitHub repository: https://github.com/michaelps123/Project-Build-an-ML-Pipeline-Starter
+- Public Weights & Biases project: https://wandb.ai/mpschneider/nyc_airbnb
